@@ -4,6 +4,9 @@ Classify abdominal trauma with machine learning. More info is [here](https://www
 
 ## Approach
 Backbone: efficientnet_b1
+
 Segmentation head: Unet
+
 Training: PyTorch
+
 Monitoring: Weights and Biases
